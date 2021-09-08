@@ -15,11 +15,11 @@ abstract class Model extends Eloquent
     /**
      * Prefix string with Commerce prefix.
      *
-     * @param $string
+     * @param $name
      * @return string
      */
-    protected function prefix($string): string
+    protected function prefix($name): string
     {
-        return Commerce::prefix($string);
+        return Commerce::prefix($name);
     }
 }
