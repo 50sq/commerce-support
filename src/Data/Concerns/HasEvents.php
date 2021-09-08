@@ -1,8 +1,8 @@
 <?php
 
-namespace FiftySq\Commerce\Data\Concerns;
+namespace FiftySq\Commerce\Support\Data\Concerns;
 
-use FiftySq\Commerce\Events\ProductCreated;
+use FiftySq\Commerce\Support\Events\ProductCreated;
 
 trait HasEvents
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace FiftySq\Commerce\Generators;
+namespace FiftySq\Commerce\Support\Generators;
 
-use FiftySq\Commerce\Contracts\SkuGeneratorContract;
+use FiftySq\Commerce\Support\Contracts\SkuGeneratorContract;
 use Illuminate\Support\Str;
 
 class SkuGenerator implements SkuGeneratorContract

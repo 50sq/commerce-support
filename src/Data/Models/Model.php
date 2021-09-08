@@ -1,9 +1,9 @@
 <?php
 
-namespace FiftySq\Commerce\Data\Models;
+namespace FiftySq\Commerce\Support\Data\Models;
 
-use FiftySq\Commerce\Commerce;
-use FiftySq\Commerce\Data\Concerns\HandlesSchemaNames;
+use FiftySq\Commerce\Support\Commerce;
+use FiftySq\Commerce\Support\Data\Concerns\HandlesSchemaNames;
 use Illuminate\Database\Eloquent\Model as Eloquent;
 
 abstract class Model extends Eloquent

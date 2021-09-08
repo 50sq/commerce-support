@@ -1,9 +1,9 @@
 <?php
 
-namespace FiftySq\Commerce\Data;
+namespace FiftySq\Commerce\Support\Data;
 
-use FiftySq\Commerce\Commerce;
-use FiftySq\Commerce\Data\Models\Model;
+use FiftySq\Commerce\Support\Commerce;
+use FiftySq\Commerce\Support\Data\Models\Model;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;

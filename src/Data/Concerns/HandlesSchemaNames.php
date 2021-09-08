@@ -1,6 +1,6 @@
 <?php
 
-namespace FiftySq\Commerce\Data\Concerns;
+namespace FiftySq\Commerce\Support\Data\Concerns;
 
 trait HandlesSchemaNames
 {

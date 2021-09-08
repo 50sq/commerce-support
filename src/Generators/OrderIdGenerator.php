@@ -1,9 +1,9 @@
 <?php
 
-namespace FiftySq\Commerce\Generators;
+namespace FiftySq\Commerce\Support\Generators;
 
-use FiftySq\Commerce\Data\Models\Cart;
-use FiftySq\Commerce\Data\Models\Customer;
+use FiftySq\Commerce\Support\Data\Models\Cart;
+use FiftySq\Commerce\Support\Data\Models\Customer;
 use Illuminate\Support\Carbon;
 
 class OrderIdGenerator

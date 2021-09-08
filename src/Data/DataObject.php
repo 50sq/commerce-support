@@ -1,6 +1,6 @@
 <?php
 
-namespace FiftySq\Commerce\Data;
+namespace FiftySq\Commerce\Support\Data;
 
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Contracts\Support\Jsonable;

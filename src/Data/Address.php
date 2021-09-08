@@ -1,6 +1,6 @@
 <?php
 
-namespace FiftySq\Commerce\Data;
+namespace FiftySq\Commerce\Support\Data;
 
 abstract class Address extends DataObject
 {

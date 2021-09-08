@@ -1,6 +1,6 @@
 {
   "name": "50sq/commerce-support",
-  "description": "Commerce by 50Squared",
+  "description": "Commerce Support by 50Squared",
   "type": "library",
   "license": "MIT",
   "keywords": [
@@ -41,7 +41,7 @@
   },
   "autoload": {
     "psr-4": {
-      "FiftySq\\Commerce\\": "src"
+      "FiftySq\\Commerce\\Support\\": "src"
     }
   },
   "autoload-dev": {

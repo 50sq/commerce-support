@@ -1,8 +1,8 @@
 <?php
 
-namespace FiftySq\Commerce\Data\Concerns;
+namespace FiftySq\Commerce\Support\Data\Concerns;
 
-use FiftySq\Commerce\Contracts\SkuGeneratorContract;
+use FiftySq\Commerce\Support\Contracts\SkuGeneratorContract;
 use Illuminate\Database\Eloquent\Model;
 
 trait HasSku

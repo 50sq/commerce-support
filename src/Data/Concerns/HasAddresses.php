@@ -1,8 +1,8 @@
 <?php
 
-namespace FiftySq\Commerce\Data\Concerns;
+namespace FiftySq\Commerce\Support\Data\Concerns;
 
-use FiftySq\Commerce\Data\Models\Address;
+use FiftySq\Commerce\Support\Data\Models\Address;
 
 trait HasAddresses
 {
